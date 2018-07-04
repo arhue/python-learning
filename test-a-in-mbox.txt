@@ -1,0 +1,3 @@
+test=open("mbox.txt","r")
+x=test.read()
+print(x.rstrip())
